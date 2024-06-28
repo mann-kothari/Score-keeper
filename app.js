@@ -3,7 +3,6 @@ const p2b = document.querySelector('#p2b');
 const p1 = document.querySelector('#p1');
 const p2 = document.querySelector('#p2');
 const reset = document.querySelector('#reset');
-const body = document.querySelector('#container');
 const range = document.querySelector('#range');
 const select = document.querySelector('#gamePoint');
 
